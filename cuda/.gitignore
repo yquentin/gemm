@@ -1,0 +1,14 @@
+build
+external
+.vs
+.*.sw?
+tags
+*~
+\#*\#
+.projectile
+CMakeSettings.json
+compile_flags.txt
+compile_commands.json
+.git-blame-ignore-revs
+.vscode
+profile
